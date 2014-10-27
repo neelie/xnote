@@ -1,0 +1,271 @@
+{
+  "id": "b9a3c51d",
+  "cfgVersion": 1,
+  "name": "note",
+  "files": {
+    "2e8f9ea2": {
+      "id": "2e8f9ea2",
+      "pid": "b9a3c51d",
+      "name": "README.md",
+      "input": "README.md",
+      "customOutput": false,
+      "type": "Md",
+      "config": {
+        "autoCompile": true,
+        "sanitize": false,
+        "gfm": true
+      }
+    },
+    "a9c6573c": {
+      "id": "a9c6573c",
+      "pid": "b9a3c51d",
+      "name": "prettify.js",
+      "input": "style\\mixu-book\\assets\\prettify.js",
+      "customOutput": false,
+      "type": "Js",
+      "config": {
+        "autoCompile": true,
+        "uglify": true,
+        "mangle": true,
+        "sourcemaps": false
+      }
+    },
+    "42ce3c50": {
+      "id": "42ce3c50",
+      "pid": "b9a3c51d",
+      "name": "runner.js",
+      "input": "style\\mixu-book\\assets\\runner.js",
+      "customOutput": false,
+      "type": "Js",
+      "config": {
+        "autoCompile": true,
+        "uglify": true,
+        "mangle": true,
+        "sourcemaps": false
+      }
+    },
+    "0c2ab854": {
+      "id": "0c2ab854",
+      "pid": "b9a3c51d",
+      "name": "bootstrap.js",
+      "input": "style\\mixu-bootstrap\\assets\\js\\bootstrap.js",
+      "customOutput": false,
+      "type": "Js",
+      "config": {
+        "autoCompile": true,
+        "uglify": true,
+        "mangle": true,
+        "sourcemaps": false
+      }
+    },
+    "61c80e46": {
+      "id": "61c80e46",
+      "pid": "b9a3c51d",
+      "name": "bootstrap.js",
+      "input": "style\\mixu-bootstrap-2col\\assets\\js\\bootstrap.js",
+      "customOutput": false,
+      "type": "Js",
+      "config": {
+        "autoCompile": true,
+        "uglify": true,
+        "mangle": true,
+        "sourcemaps": false
+      }
+    },
+    "43f9b1ba": {
+      "id": "43f9b1ba",
+      "pid": "b9a3c51d",
+      "name": "prettify.js",
+      "input": "style\\mixu-page\\assets\\js\\prettify.js",
+      "customOutput": false,
+      "type": "Js",
+      "config": {
+        "autoCompile": true,
+        "uglify": true,
+        "mangle": true,
+        "sourcemaps": false
+      }
+    },
+    "e32d4df9": {
+      "id": "e32d4df9",
+      "pid": "b9a3c51d",
+      "name": "prettify.js",
+      "input": "style\\mixu-radar\\assets\\js\\prettify.js",
+      "customOutput": false,
+      "type": "Js",
+      "config": {
+        "autoCompile": true,
+        "uglify": true,
+        "mangle": true,
+        "sourcemaps": false
+      }
+    },
+    "1d477589": {
+      "id": "1d477589",
+      "pid": "b9a3c51d",
+      "name": "bootstrap.js",
+      "input": "style\\mixu-gray\\assets\\js\\bootstrap.js",
+      "customOutput": false,
+      "type": "Js",
+      "config": {
+        "autoCompile": true,
+        "uglify": true,
+        "mangle": true,
+        "sourcemaps": false
+      }
+    },
+    "21caea77": {
+      "id": "21caea77",
+      "pid": "b9a3c51d",
+      "name": "mysql_change_default_data_directory.md",
+      "input": "mysql_change_default_data_directory.md",
+      "customOutput": false,
+      "type": "Md",
+      "config": {
+        "autoCompile": true,
+        "sanitize": false,
+        "gfm": true
+      }
+    },
+    "0b106730": {
+      "id": "0b106730",
+      "pid": "b9a3c51d",
+      "name": "xhprof_install.md",
+      "input": "xhprof_install.md",
+      "customOutput": false,
+      "type": "Md",
+      "config": {
+        "autoCompile": true,
+        "sanitize": false,
+        "gfm": true
+      }
+    }
+  },
+  "imports": {},
+  "images": {
+    "9c06961b": {
+      "id": "9c06961b",
+      "pid": "b9a3c51d",
+      "path": "style\\mixu-bootstrap\\assets\\img\\glyphicons-halflings-white.png",
+      "size": 8777,
+      "name": "glyphicons-halflings-white.png",
+      "type": "Png",
+      "initialSize": 8777,
+      "status": "NOT_OPTIMIZED"
+    },
+    "b27171a3": {
+      "id": "b27171a3",
+      "pid": "b9a3c51d",
+      "path": "style\\mixu-bootstrap\\assets\\img\\glyphicons-halflings.png",
+      "size": 12799,
+      "name": "glyphicons-halflings.png",
+      "type": "Png",
+      "initialSize": 12799,
+      "status": "NOT_OPTIMIZED"
+    },
+    "bbe4229d": {
+      "id": "bbe4229d",
+      "pid": "b9a3c51d",
+      "path": "style\\mixu-bootstrap-2col\\assets\\img\\glyphicons-halflings-white.png",
+      "size": 8777,
+      "name": "glyphicons-halflings-white.png",
+      "type": "Png",
+      "initialSize": 8777,
+      "status": "NOT_OPTIMIZED"
+    },
+    "0bc535bf": {
+      "id": "0bc535bf",
+      "pid": "b9a3c51d",
+      "path": "style\\mixu-bootstrap-2col\\assets\\img\\glyphicons-halflings.png",
+      "size": 12799,
+      "name": "glyphicons-halflings.png",
+      "type": "Png",
+      "initialSize": 12799,
+      "status": "NOT_OPTIMIZED"
+    },
+    "37c9c7b8": {
+      "id": "37c9c7b8",
+      "pid": "b9a3c51d",
+      "path": "style\\mixu-gray\\assets\\img\\glyphicons-halflings-white.png",
+      "size": 8777,
+      "name": "glyphicons-halflings-white.png",
+      "type": "Png",
+      "initialSize": 8777,
+      "status": "NOT_OPTIMIZED"
+    },
+    "6d3b018b": {
+      "id": "6d3b018b",
+      "pid": "b9a3c51d",
+      "path": "style\\mixu-gray\\assets\\img\\glyphicons-halflings.png",
+      "size": 12799,
+      "name": "glyphicons-halflings.png",
+      "type": "Png",
+      "initialSize": 12799,
+      "status": "NOT_OPTIMIZED"
+    },
+    "0906b5ae": {
+      "id": "0906b5ae",
+      "pid": "b9a3c51d",
+      "path": "style\\mixu-gray\\assets\\img\\textured_paper.png",
+      "size": 134365,
+      "name": "textured_paper.png",
+      "type": "Png",
+      "initialSize": 134365,
+      "status": "NOT_OPTIMIZED"
+    },
+    "05ddb38d": {
+      "id": "05ddb38d",
+      "pid": "b9a3c51d",
+      "path": "style\\mixu-page\\assets\\img\\groovepaper.png",
+      "size": 40723,
+      "name": "groovepaper.png",
+      "type": "Png",
+      "initialSize": 40723,
+      "status": "NOT_OPTIMIZED"
+    },
+    "bbd072f4": {
+      "id": "bbd072f4",
+      "pid": "b9a3c51d",
+      "path": "style\\mixu-radar\\assets\\img\\groovepaper.png",
+      "size": 40723,
+      "name": "groovepaper.png",
+      "type": "Png",
+      "initialSize": 40723,
+      "status": "NOT_OPTIMIZED"
+    }
+  },
+  "config": {
+    "watch": true,
+    "liveRefresh": true,
+    "liveRefreshDelay": 0,
+    "filterPatterns": "",
+    "useCustomServer": true,
+    "customServerUrl": "http://x.vii/note/",
+    "cssPath": "css/",
+    "jsPath": "js/",
+    "htmlPath": "html/",
+    "minJsPath": "min/",
+    "htmlExtension": ".html",
+    "cssPathType": "REPLACE_TYPE",
+    "htmlPathType": "RELATIVE_FILEDIR",
+    "jsPathType": "REPLACE_TYPE",
+    "minJsPathType": "RELATIVE_FILEDIR",
+    "htmlTypes": "jade, haml, slim, markdown, md",
+    "cssTypes": "less, sass, stylus, scss, styl",
+    "jsTypes": "coffee, coffeescript, coffeescripts, ls, livescript, livescripts",
+    "cssPreprocessorPath": "",
+    "htmlPreprocessorPath": "",
+    "jsPreprocessorPath": "",
+    "minJsPreprocessorPath": "",
+    "autoprefixerBrowsers": "",
+    "ftpHost": "",
+    "ftpPort": "21",
+    "ftpRemotePath": "",
+    "ftpIgnorePreprocessorFiles": true,
+    "ftpType": "FTP",
+    "ftpExcludePatterns": "",
+    "ftpSecure": false,
+    "ftpPassword": "",
+    "ftpUsername": ""
+  }
+}
